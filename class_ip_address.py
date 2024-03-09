@@ -8,7 +8,7 @@ name_user = input("Masukkan Username: ")
 class_a = input("IP Kelas A: ")
 class_b = input("IP Kelas B: ")
 class_c = input("IP Kelas C: ")
-print (f"\nHalo {name_user}, Ini IP Address Kamu Adalah:\n\
+print (f"\nHalo {name_user}, IP Address Kamu Adalah:\n\
 - A = {class_a}\n- B = {class_b}\n- C = {class_c}\n")
 
 print (f"======================== SUBNETTING {name_user} =========================")
